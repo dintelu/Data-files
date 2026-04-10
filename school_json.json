@@ -1,0 +1,465 @@
+{
+  "school": "Sarla Birla School",
+  "city": "Ranchi",
+  "students": [
+    {
+      "id": 1,
+      "name": "Chaitanya",
+      "class": 5,
+      "section": "A",
+      "age": 10,
+      "marks": { "Math": 95, "English": 88, "Science": 92 },
+      "activities": ["Olympiad", "Reading"]
+    },
+    {
+      "id": 2,
+      "name": "Aarav Sharma",
+      "class": 5,
+      "section": "A",
+      "age": 10,
+      "marks": { "Math": 85, "English": 78, "Science": 80 },
+      "activities": ["Cricket", "Drawing"]
+    },
+    {
+      "id": 3,
+      "name": "Vivaan Singh",
+      "class": 5,
+      "section": "A",
+      "age": 11,
+      "marks": { "Math": 75, "English": 82, "Science": 79 },
+      "activities": ["Football", "Music"]
+    },
+    {
+      "id": 4,
+      "name": "Aditya Kumar",
+      "class": 5,
+      "section": "B",
+      "age": 10,
+      "marks": { "Math": 88, "English": 85, "Science": 90 },
+      "activities": ["Debate", "Reading"]
+    },
+    {
+      "id": 5,
+      "name": "Krishna Verma",
+      "class": 5,
+      "section": "B",
+      "age": 10,
+      "marks": { "Math": 91, "English": 87, "Science": 89 },
+      "activities": ["Chess", "Coding"]
+    },
+
+    {
+      "id": 6,
+      "name": "Rohan Gupta",
+      "class": 5,
+      "section": "A",
+      "age": 10,
+      "marks": { "Math": 72, "English": 75, "Science": 70 },
+      "activities": ["Drawing"]
+    },
+    {
+      "id": 7,
+      "name": "Aryan Mishra",
+      "class": 5,
+      "section": "B",
+      "age": 11,
+      "marks": { "Math": 89, "English": 84, "Science": 86 },
+      "activities": ["Football"]
+    },
+    {
+      "id": 8,
+      "name": "Kabir Khan",
+      "class": 5,
+      "section": "A",
+      "age": 10,
+      "marks": { "Math": 78, "English": 80, "Science": 77 },
+      "activities": ["Music"]
+    },
+    {
+      "id": 9,
+      "name": "Ishaan Roy",
+      "class": 5,
+      "section": "B",
+      "age": 10,
+      "marks": { "Math": 82, "English": 79, "Science": 81 },
+      "activities": ["Cricket"]
+    },
+    {
+      "id": 10,
+      "name": "Om Patel",
+      "class": 5,
+      "section": "A",
+      "age": 11,
+      "marks": { "Math": 93, "English": 90, "Science": 91 },
+      "activities": ["Chess"]
+    },
+
+    {
+      "id": 11,
+      "name": "Rahul Das",
+      "class": 5,
+      "section": "B",
+      "age": 10,
+      "marks": { "Math": 68, "English": 70, "Science": 65 },
+      "activities": ["Drawing"]
+    },
+    {
+      "id": 12,
+      "name": "Neeraj Singh",
+      "class": 5,
+      "section": "A",
+      "age": 11,
+      "marks": { "Math": 85, "English": 83, "Science": 87 },
+      "activities": ["Reading"]
+    },
+    {
+      "id": 13,
+      "name": "Siddharth Jain",
+      "class": 5,
+      "section": "B",
+      "age": 10,
+      "marks": { "Math": 92, "English": 89, "Science": 90 },
+      "activities": ["Olympiad"]
+    },
+    {
+      "id": 14,
+      "name": "Harsh Vardhan",
+      "class": 5,
+      "section": "A",
+      "age": 10,
+      "marks": { "Math": 74, "English": 76, "Science": 73 },
+      "activities": ["Football"]
+    },
+    {
+      "id": 15,
+      "name": "Yash Gupta",
+      "class": 5,
+      "section": "B",
+      "age": 11,
+      "marks": { "Math": 88, "English": 86, "Science": 85 },
+      "activities": ["Music"]
+    },
+
+    {
+      "id": 16,
+      "name": "Deepak Kumar",
+      "class": 5,
+      "section": "A",
+      "age": 10,
+      "marks": { "Math": 80, "English": 82, "Science": 79 },
+      "activities": ["Cricket"]
+    },
+    {
+      "id": 17,
+      "name": "Ankit Raj",
+      "class": 5,
+      "section": "B",
+      "age": 10,
+      "marks": { "Math": 77, "English": 74, "Science": 76 },
+      "activities": ["Chess"]
+    },
+    {
+      "id": 18,
+      "name": "Manish Kumar",
+      "class": 5,
+      "section": "A",
+      "age": 11,
+      "marks": { "Math": 91, "English": 88, "Science": 90 },
+      "activities": ["Reading"]
+    },
+    {
+      "id": 19,
+      "name": "Saurabh Singh",
+      "class": 5,
+      "section": "B",
+      "age": 10,
+      "marks": { "Math": 69, "English": 72, "Science": 70 },
+      "activities": ["Drawing"]
+    },
+    {
+      "id": 20,
+      "name": "Piyush Sharma",
+      "class": 5,
+      "section": "A",
+      "age": 10,
+      "marks": { "Math": 84, "English": 81, "Science": 83 },
+      "activities": ["Football"]
+    },
+
+    {
+      "id": 21,
+      "name": "Aman Verma",
+      "class": 5,
+      "section": "B",
+      "age": 11,
+      "marks": { "Math": 87, "English": 85, "Science": 88 },
+      "activities": ["Music"]
+    },
+    {
+      "id": 22,
+      "name": "Nikhil Kumar",
+      "class": 5,
+      "section": "A",
+      "age": 10,
+      "marks": { "Math": 73, "English": 75, "Science": 74 },
+      "activities": ["Cricket"]
+    },
+    {
+      "id": 23,
+      "name": "Ritesh Singh",
+      "class": 5,
+      "section": "B",
+      "age": 10,
+      "marks": { "Math": 90, "English": 88, "Science": 89 },
+      "activities": ["Chess"]
+    },
+    {
+      "id": 24,
+      "name": "Kunal Gupta",
+      "class": 5,
+      "section": "A",
+      "age": 11,
+      "marks": { "Math": 82, "English": 80, "Science": 83 },
+      "activities": ["Reading"]
+    },
+    {
+      "id": 25,
+      "name": "Sumit Kumar",
+      "class": 5,
+      "section": "B",
+      "age": 10,
+      "marks": { "Math": 78, "English": 77, "Science": 79 },
+      "activities": ["Drawing"]
+    },
+
+    {
+      "id": 26,
+      "name": "Vikas Singh",
+      "class": 5,
+      "section": "A",
+      "age": 10,
+      "marks": { "Math": 85, "English": 83, "Science": 84 },
+      "activities": ["Football"]
+    },
+    {
+      "id": 27,
+      "name": "Abhishek Kumar",
+      "class": 5,
+      "section": "B",
+      "age": 11,
+      "marks": { "Math": 91, "English": 89, "Science": 90 },
+      "activities": ["Music"]
+    },
+    {
+      "id": 28,
+      "name": "Gaurav Sharma",
+      "class": 5,
+      "section": "A",
+      "age": 10,
+      "marks": { "Math": 72, "English": 70, "Science": 73 },
+      "activities": ["Cricket"]
+    },
+    {
+      "id": 29,
+      "name": "Ravi Kumar",
+      "class": 5,
+      "section": "B",
+      "age": 10,
+      "marks": { "Math": 88, "English": 86, "Science": 87 },
+      "activities": ["Chess"]
+    },
+    {
+      "id": 30,
+      "name": "Ajay Singh",
+      "class": 5,
+      "section": "A",
+      "age": 11,
+      "marks": { "Math": 80, "English": 78, "Science": 81 },
+      "activities": ["Reading"]
+    },
+
+    {
+      "id": 31,
+      "name": "Sunil Kumar",
+      "class": 5,
+      "section": "B",
+      "age": 10,
+      "marks": { "Math": 76, "English": 74, "Science": 75 },
+      "activities": ["Drawing"]
+    },
+    {
+      "id": 32,
+      "name": "Vivek Singh",
+      "class": 5,
+      "section": "A",
+      "age": 10,
+      "marks": { "Math": 89, "English": 87, "Science": 88 },
+      "activities": ["Football"]
+    },
+    {
+      "id": 33,
+      "name": "Mohit Sharma",
+      "class": 5,
+      "section": "B",
+      "age": 11,
+      "marks": { "Math": 92, "English": 90, "Science": 91 },
+      "activities": ["Music"]
+    },
+    {
+      "id": 34,
+      "name": "Rakesh Kumar",
+      "class": 5,
+      "section": "A",
+      "age": 10,
+      "marks": { "Math": 71, "English": 73, "Science": 70 },
+      "activities": ["Cricket"]
+    },
+    {
+      "id": 35,
+      "name": "Dinesh Singh",
+      "class": 5,
+      "section": "B",
+      "age": 10,
+      "marks": { "Math": 86, "English": 84, "Science": 85 },
+      "activities": ["Chess"]
+    },
+
+    {
+      "id": 36,
+      "name": "Anil Kumar",
+      "class": 5,
+      "section": "A",
+      "age": 11,
+      "marks": { "Math": 79, "English": 78, "Science": 80 },
+      "activities": ["Reading"]
+    },
+    {
+      "id": 37,
+      "name": "Rajesh Singh",
+      "class": 5,
+      "section": "B",
+      "age": 10,
+      "marks": { "Math": 83, "English": 81, "Science": 82 },
+      "activities": ["Drawing"]
+    },
+    {
+      "id": 38,
+      "name": "Mukesh Kumar",
+      "class": 5,
+      "section": "A",
+      "age": 10,
+      "marks": { "Math": 90, "English": 88, "Science": 89 },
+      "activities": ["Football"]
+    },
+    {
+      "id": 39,
+      "name": "Kishore Singh",
+      "class": 5,
+      "section": "B",
+      "age": 11,
+      "marks": { "Math": 75, "English": 77, "Science": 76 },
+      "activities": ["Music"]
+    },
+    {
+      "id": 40,
+      "name": "Naresh Kumar",
+      "class": 5,
+      "section": "A",
+      "age": 10,
+      "marks": { "Math": 87, "English": 85, "Science": 86 },
+      "activities": ["Cricket"]
+    },
+
+    {
+      "id": 41,
+      "name": "Sanjay Singh",
+      "class": 5,
+      "section": "B",
+      "age": 10,
+      "marks": { "Math": 82, "English": 80, "Science": 81 },
+      "activities": ["Chess"]
+    },
+    {
+      "id": 42,
+      "name": "Rohit Kumar",
+      "class": 5,
+      "section": "A",
+      "age": 11,
+      "marks": { "Math": 91, "English": 89, "Science": 90 },
+      "activities": ["Reading"]
+    },
+    {
+      "id": 43,
+      "name": "Aakash Singh",
+      "class": 5,
+      "section": "B",
+      "age": 10,
+      "marks": { "Math": 74, "English": 72, "Science": 73 },
+      "activities": ["Drawing"]
+    },
+    {
+      "id": 44,
+      "name": "Hemant Kumar",
+      "class": 5,
+      "section": "A",
+      "age": 10,
+      "marks": { "Math": 88, "English": 86, "Science": 87 },
+      "activities": ["Football"]
+    },
+    {
+      "id": 45,
+      "name": "Lokesh Singh",
+      "class": 5,
+      "section": "B",
+      "age": 11,
+      "marks": { "Math": 79, "English": 78, "Science": 80 },
+      "activities": ["Music"]
+    },
+
+    {
+      "id": 46,
+      "name": "Tarun Kumar",
+      "class": 5,
+      "section": "A",
+      "age": 10,
+      "marks": { "Math": 85, "English": 83, "Science": 84 },
+      "activities": ["Cricket"]
+    },
+    {
+      "id": 47,
+      "name": "Pankaj Singh",
+      "class": 5,
+      "section": "B",
+      "age": 10,
+      "marks": { "Math": 92, "English": 90, "Science": 91 },
+      "activities": ["Chess"]
+    },
+    {
+      "id": 48,
+      "name": "Alok Kumar",
+      "class": 5,
+      "section": "A",
+      "age": 11,
+      "marks": { "Math": 78, "English": 76, "Science": 79 },
+      "activities": ["Reading"]
+    },
+    {
+      "id": 49,
+      "name": "Manoj Singh",
+      "class": 5,
+      "section": "B",
+      "age": 10,
+      "marks": { "Math": 83, "English": 81, "Science": 82 },
+      "activities": ["Drawing"]
+    },
+    {
+      "id": 50,
+      "name": "Raj Kumar",
+      "class": 5,
+      "section": "A",
+      "age": 10,
+      "marks": { "Math": 89, "English": 87, "Science": 88 },
+      "activities": ["Football"]
+    }
+  ]
+}
